@@ -7,7 +7,7 @@ export default {
 
   data() {
     return {
-      subTitle: 'Tips & Tricks'
+      subTitle: ''
     }
   },
 
